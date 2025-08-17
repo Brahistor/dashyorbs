@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dashyorbs",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0583b7be-1a98-462b-8c31-e1882a75b894",
+      "database_name": "dashyorbs"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
